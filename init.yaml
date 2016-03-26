@@ -1,0 +1,17 @@
+---
+fullname: My Company Ltd.
+name: Company
+type: Ltd
+id: 12345678
+address:
+  street: Spooner Street
+  number: 31
+  house_name: "Griffin's House"
+  city : Quahog
+  country : United States
+  postal  : 02801
+director: !include people/peter-griffin.yaml
+bank_accounts:
+  - !include bank-accounts/main.yaml
+  - !include bank-accounts/saver.yaml
+bank_details: !include bank-accounts/main.yaml

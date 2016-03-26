@@ -1,0 +1,13 @@
+---
+date : 2016-02-02
+number : 2
+customer : !include companies/dogcare.yaml
+project: Dog houses for DogCare UK
+currency: GBP
+items:
+  - name: Dog House (type B)
+    quantity: 150
+    price: 130
+paid: true
+# the amount is in USD
+amount_paid: 19500

@@ -1,0 +1,11 @@
+---
+fullname: DogCare Ltd.
+name: DogCare
+type: Ltd.
+id: 123456789
+address:
+  street: Regent Street
+  number: 1
+  city : London
+  country : United Kingdom
+  postal  : LN1 2BG

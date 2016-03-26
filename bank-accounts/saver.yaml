@@ -1,0 +1,9 @@
+---
+id: saver
+description: My Company saver account
+bank_name: Bank of UK
+sort_code: 12-34-56
+account_number: 123456789
+swift: UKGB00
+iban: GB00UK123456789
+currency: GBP

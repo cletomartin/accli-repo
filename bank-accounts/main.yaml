@@ -1,0 +1,9 @@
+---
+id: main
+description: My Company day to day account
+country: US
+bank_name: US Bank
+account_number: 123456789
+swift: USBANK22
+iban: US11BANK123456789
+currency: USD

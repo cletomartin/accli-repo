@@ -1,0 +1,21 @@
+---
+year: 2016
+begin: 2016-04-06
+end: 2017-04-05
+entries:
+  - account: main
+    date: 2016-05-01
+    category: expense/infrastructure
+    amount: -25.00
+    description: website server
+  - account: saver
+    date: 2016-06-01
+    category: payment/bank
+    amount: 41.77
+    description: Interest paid gross
+  - account: main
+    date: 2016-07-01
+    category: expense/travel
+    amount: 123.83
+    description: Petrol station
+    file: expenses/2016/petrol-station-ticket.jpg
