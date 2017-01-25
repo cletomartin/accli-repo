@@ -4,6 +4,8 @@ number : 1
 customer : !include people/glenn-quagmire.yaml
 project: Beautiful Dog House
 currency: USD
+vat_tax: 0.21
+withholding_tax: 0.18
 reference: "P.O. #1234"
 items:
   - name: Plastic roof peices
